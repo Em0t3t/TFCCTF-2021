@@ -1,0 +1,5 @@
+This phisher thinks he's the game! We got his PGP Key ID from his phishing e-mail, and we know for sure that he has another PGP key publicized under his real name! Can you find out more about him?
+
+A2DCB36111E3656B
+
+Challenge author: hofill

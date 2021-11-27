@@ -1,0 +1,5 @@
+What can you do in an ocean of files?
+
+Challenge author: tomadimitrie
+
+nc server.challenge.ctf.thefewchosen.com 1338

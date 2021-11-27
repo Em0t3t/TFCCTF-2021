@@ -1,0 +1,5 @@
+We considered giving you a free flag. However, we decided against it. In general, we would never do that! Or would we? That's the beginning of a good CTF! Discord is the new Twitter.
+
+To be able to solve this challenge, you'll need to join our discord. Link in the Rules page.
+
+Challenge author: hofill

@@ -1,0 +1,5 @@
+Quick! Help! We are sinking!
+
+Wrap the result in TFCCTF{}
+
+Challenge author: hofill
